@@ -33,7 +33,7 @@ A visual benchmarking framework to evaluate a custom hybrid path planning algori
 | File | Description |
 |------|-------------|
 | `AlgoBenchmark.py` | Full visualizer and pathfinding logic (self-contained) |
-| `PathPlanning_Documentation.docx` | Deep technical explanation of the implementation, algorithms, grid logic, and benchmarks |
+| `PathPlanning_Documentation.pdf` | Deep technical explanation of the implementation, algorithms, grid logic, and benchmarks |
 
 ---
 
